@@ -1,0 +1,23 @@
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+  }
+
+.column.left {
+    float : left;
+    width: 33%;
+}  
+
+.column.right {
+    float:right;
+    width: 67%;
+}
+
+
+
+.footer {
+    background-color: black ;
+    text-align: center;
+    padding: 10px;
+}
